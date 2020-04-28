@@ -3,7 +3,7 @@ clc;
 RR=2000; %amount of trials ran
 for Q=1:RR;
        if (Q<RR)
-sym n;
+sym n; 
 sym k;
 sym z;
 n=300; % used to make data
