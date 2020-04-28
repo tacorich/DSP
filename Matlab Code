@@ -1,6 +1,6 @@
 clear all;
 clc;
-RR=2000; %amount of trials ran
+RR=10000; %amount of trials ran
 for Q=1:RR;
        if (Q<RR)
 sym n; 
