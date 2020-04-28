@@ -1,2 +1,2 @@
 # DSP
-DSP reserch
+DSP project
